@@ -1,5 +1,5 @@
 class HomeController < ApplicationController
     def index
-        @title = 'デイトラ'
+        @title = 'デイトラ1'
     end
 end
